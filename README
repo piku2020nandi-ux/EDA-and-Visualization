@@ -1,0 +1,28 @@
+# Week 2 - EDA & Data Visualization Framework
+
+This repository contains the Exploratory Data Analysis (EDA) Framework submitted as part of the ObjectiveIn Data Analyst Internship - Week 2.
+
+### 🎯 Objective
+To build a structured framework for performing EDA and creating meaningful visualizations to understand data patterns, trends, and insights.
+
+### 🛠️ Tools & Libraries
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Jupyter Notebook
+
+### 📋 EDA Framework Steps
+1.  **Data Understanding:** Checking shape, data types, head/tail
+2.  **Data Cleaning:** Handling missing values, duplicates, outliers
+3.  **Univariate Analysis:** Analyzing single variables (histogram, countplot)
+4.  **Bivariate Analysis:** Relationship between two variables (scatterplot, boxplot)
+5.  **Multivariate Analysis:** Correlation heatmap, pairplot
+
+### 📊 Visualizations Included
+- Histogram, Bar Chart, Count Plot
+- Box Plot, Violin Plot
+- Scatter Plot, Line Plot
+- Heatmap & Pairplot
+
+### 📄 Files
+- `ObjectiveIn_Week2_EDA_Framework.docx` - Detailed framework document
